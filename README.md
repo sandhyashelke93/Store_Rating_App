@@ -1,1 +1,1 @@
-# Store_Rating_App
+store-rating-app
